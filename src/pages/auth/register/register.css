@@ -1,0 +1,19 @@
+.text-danger {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: rgb(201, 17, 17);
+  font-size: 18px;
+  margin-top: -60px;
+  text-align: center;
+}
+.btn-primary1 {
+  width: 100%;
+  height: 40px;
+  border-width: 2px;
+  border: blue;
+  text-align: center;
+  text-size-adjust: 30px;
+}
+.btn-primary1:hover {
+  color: rgb(26, 73, 226);
+  background-color: cornflowerblue;
+}
